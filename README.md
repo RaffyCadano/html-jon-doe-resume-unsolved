@@ -87,25 +87,25 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [X] Add the section heading "Contact Me"
 - [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
 - [X] Add Discord as a service and your discord's real username as a value to the table.
-- [ ] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
-- [ ] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
-- [ ] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
+- [X] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
+- [X] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
+- [X] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
+- [X] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
 
 ### Part 2: Testing the magic of id and class attributes
 
-- [ ] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
-- [ ] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
-- [ ] The page heading should have the id of "candidate-name"
-- [ ] The desired role section heading should the id of "candidate-desired-role"
-- [ ] The "About me" section heading should have an id of "about-me".
-- [ ] The image should have the id of "candidate-image"
-- [ ] The bio paragraph should have a class name of "candidate-bio"
-- [ ] The skills section heading should have the id of "skills"
-- [ ] The skills list should have the id of "skills-list"
-- [ ] The Hobbies section heading should have the id of "hobbies"
-- [ ] The hobbies list should have the id of "hobbies-list"
-- [ ] The contacts section heading should have the id of "contacts"
-- [ ] The contacts table should have a class name of "contacts-table".
-- [ ] The body should have a class name of "fancy-body".
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
+- [X] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
+- [X] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
+- [X] The page heading should have the id of "candidate-name"
+- [X] The desired role section heading should the id of "candidate-desired-role"
+- [X] The "About me" section heading should have an id of "about-me".
+- [X] The image should have the id of "candidate-image"
+- [X] The bio paragraph should have a class name of "candidate-bio"
+- [X] The skills section heading should have the id of "skills"
+- [X] The skills list should have the id of "skills-list"
+- [X] The Hobbies section heading should have the id of "hobbies"
+- [X] The hobbies list should have the id of "hobbies-list"
+- [X] The contacts section heading should have the id of "contacts"
+- [X] The contacts table should have a class name of "contacts-table".
+- [X] The body should have a class name of "fancy-body".
+- [X] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
