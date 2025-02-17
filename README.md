@@ -53,16 +53,16 @@ This assignment should prove that a student is able to:
   - [X] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [X] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [X] All the tasks of the "Specific requirements" section MUST be solved
-- [] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+- [X] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [X] Use `npm run test` to run all tests in the terminal
   - [X] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+  - [X] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
   - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [X] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [X] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [X] The code MUST be formatted with Prettier
+- [X] Push the changes to the Github repo, when finished.
+- [X] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -85,7 +85,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [X] Add the section heading "My Hobbies"
 - [X] Add the UNORDERED list of 4 hobbies
 - [X] Add the section heading "Contact Me"
-- [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
+- [X] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
 - [X] Add Discord as a service and your discord's real username as a value to the table.
 - [X] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
 - [X] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
