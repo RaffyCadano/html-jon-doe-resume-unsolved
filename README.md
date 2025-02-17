@@ -10,8 +10,8 @@ To preview your created app, simply click the "Go Live" button found in the VSCO
 
 If you are not using VSCode you can install and run the "live-server" npm package following the list of commands:
 
-- [ ] Use `npm i live-server` to install the live-server package
-- [ ] Use `npm run live-server` or `npx live-server --port=5551` to run the live-server. The port number should be 5551 strictly.
+- [X] Use `npm i live-server` to install the live-server package
+- [X] Use `npm run live-server` or `npx live-server --port=5551` to run the live-server. The port number should be 5551 strictly.
 
 The live-server installation video: [Video](https://www.loom.com/share/ca99ebec79d14bfa9fc4dd012661f919?sid=0c702a22-c5bd-4608-93d2-0643aecb4b07)  
 The live-server NPM package page: [Link](https://www.npmjs.com/package/live-server)
@@ -45,20 +45,20 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
-  - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+- [X] Fork the project to your github account
+- [X] Clone the project to your computer
+- [X] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [X] Initialize playwright and install project packages
+  - [X] Use `npm i` to install packages
+  - [X] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
+  - [X] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
+- [X] All the tasks of the "Specific requirements" section MUST be solved
+- [] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+  - [X] Use `npm run test` to run all tests in the terminal
+  - [X] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
   - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
+  - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [X] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [ ] The code MUST be formatted with Prettier
 - [ ] Push the changes to the Github repo, when finished.
@@ -70,23 +70,23 @@ This assignment should prove that a student is able to:
 
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-- [ ] Set the document title to be "Jon Doe's resume".
-- [ ] Set the page heading to be "Jon Doe"
-- [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
-  - [ ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
-  - [ ] The image alternative text should match the page title.
-- [ ] Add a section heading with the content of "About Me".
-- [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
-- [ ] Add the section heading "My Skills"
-- [ ] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
-- [ ] Add the section heading "My Hobbies"
-- [ ] Add the UNORDERED list of 4 hobbies
-- [ ] Add the section heading "Contact Me"
+- [X] Create an html file with the name of "index" in the root of the project
+- [X] Add HTML Boilerplate to the document
+- [X] Set the document title to be "Jon Doe's resume".
+- [X] Set the page heading to be "Jon Doe"
+- [X] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
+- [X] Add an image with required and important attributes
+  - [X] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
+  - [X] The image alternative text should match the page title.
+- [X] Add a section heading with the content of "About Me".
+- [X] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
+- [X] Add the section heading "My Skills"
+- [X] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
+- [X] Add the section heading "My Hobbies"
+- [X] Add the UNORDERED list of 4 hobbies
+- [X] Add the section heading "Contact Me"
 - [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
-- [ ] Add Discord as a service and your discord's real username as a value to the table.
+- [X] Add Discord as a service and your discord's real username as a value to the table.
 - [ ] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
 - [ ] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
 - [ ] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
